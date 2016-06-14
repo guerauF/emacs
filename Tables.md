@@ -1,5 +1,6 @@
-Learning the functionality of emacs always starts with a problem, and how to deal with it using emacs. Here
-are some examples:
+Learning the functionality of emacs always starts with a problem, and how to deal with it using emacs. 
+
+Here are some examples:
 
 # Column paste next to another
 
