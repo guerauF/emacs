@@ -15,7 +15,7 @@ is shorter than another word from the same column, add spaces to limit the area.
 
 Ctrl c ^
 
-A menu shows up, where you have to specify if alphabetic, numeric or time.
+A menu pops up, where you have to specify if alphabetic, numeric or time.
 Uppercase letters specify in reverse order.
 
 # Multiple cursors
